@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Yance](https://www.yancesport.com/)
 
-- 🌱 I’m currently learning **Javascript and React**
-
 - 🔍 Find me here [https://www.linkedin.com/in/cassandra-dodd/](https://www.linkedin.com/in/cassandra-dodd/)
 
 - ✉️ How to reach me **cassy.dodd95@gmail.com**
