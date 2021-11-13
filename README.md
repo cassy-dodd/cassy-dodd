@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Cassy</h1>
-<h3 align="center">A new and passionate full-stack developer from Manchester</h3>
+<h3 align="center">A passionate full-stack developer from Manchester</h3>
 
-- 🔭 I’m currently working on [Yance](https://www.yancesport.com/)
+- 🔭 I’m currently working on [Yance Life](https://www.yancelife.com/)
 
 - 🔍 Find me here [https://www.linkedin.com/in/cassandra-dodd/](https://www.linkedin.com/in/cassandra-dodd/)
 
